@@ -1,6 +1,6 @@
 Recebi a missão de automatizar o sistema de estoque de uma papelaria. Cada item precisa registrar seu nome e a quantidade atual em estoque. O sistema deve permitir retirar itens, mas somente se houver quantidade suficiente disponível. Caso contrário, deve exibir uma mensagem informando a falha.
 
-Crie uma classe chamada Produto com:
+Criei uma classe chamada Produto com:
 
 Propriedade pública Nome.
 Campo privado quantidadeEstoque.
