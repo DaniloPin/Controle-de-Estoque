@@ -2,12 +2,12 @@ Recebi a missão de automatizar o sistema de estoque de uma papelaria. Cada item
 
 Criei uma classe chamada Produto com:
 
-Propriedade pública Nome.
-Campo privado quantidadeEstoque.
-Um construtor que receba o nome e a quantidade inicial.
-Um método público Retirar(int quantidade) que:
-Reduz a quantidade apenas se houver estoque suficiente.
-Exiba uma mensagem indicando o sucesso ou a falha da operação.
-Um método ExibirEstoque() para mostrar a quantidade atual.
+- Propriedade pública Nome.
+- Campo privado quantidadeEstoque.
+- Um construtor que receba o nome e a quantidade inicial.
+- Um método público Retirar(int quantidade) que:
+    - Reduz a quantidade apenas se houver estoque suficiente.  
+    - Exiba uma mensagem indicando o sucesso ou a falha da operação.
+    - Um método ExibirEstoque() para mostrar a quantidade atual.
 
 ![image](https://github.com/user-attachments/assets/2a3882fc-ae33-4f4e-a422-95dffffe3715)
