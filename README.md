@@ -5,6 +5,7 @@ Criei uma classe chamada Produto com:
 - Propriedade pública Nome.
 - Campo privado quantidadeEstoque.
 - Um construtor que receba o nome e a quantidade inicial.
+  
 - Um método público Retirar(int quantidade) que:
     - Reduz a quantidade apenas se houver estoque suficiente.  
     - Exiba uma mensagem indicando o sucesso ou a falha da operação.
